@@ -8,11 +8,11 @@
 "Follow my exciting Laravel journey as I learn, experiment, and innovate with this powerful PHP framework. This repository is a personal chronicle of my progress, including code snippets, project demos, and insights gained along the way. Join me in exploring the endless possibilities of Laravel development."
 
 ## my todolist
-[PHP Programming Checklist for Beginners](#)
+[PHP Programming Checklist for Beginners](https://www.notion.so/2ea2da73db3344a6b36d9af39b49929f?v=3abf3ba872f447a484d107fc5dd4b933&pvs=4)
 
-<!-- ## useful links
+## useful links
 
-[cheatsheet](#)-->
+[cheatsheet](https://artisan.page)
 
 ## youtube tutorial
 

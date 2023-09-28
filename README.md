@@ -19,3 +19,12 @@
 [PHP in 100 Seconds](https://youtu.be/a7_WFUlFS94?si=vnraW5UnJ-TGkjlr)
 
 [Laravel in 100 Seconds](https://youtu.be/rIfdg_Ot-LI?si=qqm3HnxD3LBqhRWY)
+
+## udemy courses
+
+[Complete Modern PHP Developer Course in 2023](https://www.udemy.com/course/complete-modern-php-developer/)
+
+[Master Laravel 10 for Beginners & Intermediate 2023](https://www.udemy.com/course/laravel-beginner-fundamentals/)
+
+
+

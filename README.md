@@ -13,6 +13,7 @@
 ## useful links
 
 [cheatsheet](https://artisan.page)
+
 [How to Learn Laravel as a Beginner](https://medium.com/@eloufirhatim/howlearn-laravel-as-a-beginner-without-any-knowledges-in-php-74d558b521fe#:~:text=Before%20you%20start%20learning%20Laravel,loops%2C%20functions%2C%20and%20more.)
 
 ## youtube tutorial

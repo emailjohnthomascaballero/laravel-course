@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/emailjohnthomascaballero">
-    <img src="https://codebrisk.com/assets/images/posts/1625808060_laravel-banner1.webp" alt="laravel Banner" width="100%">
+    <img src="https://www.ranosys.com/content/dam/ranosys-website/services/digital-tranasformation/application-development/php/laravel/PHPlaravelbanner_1920.png" alt="laravel Banner" width="100%">
   </a>
 </p>
 

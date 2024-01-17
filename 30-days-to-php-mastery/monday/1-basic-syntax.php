@@ -53,3 +53,60 @@ if ($notOperator) {
   echo 'False';
 }
 
+echo '<br>';
+
+// Control Flow:
+// Control flow structures allow you to control the flow of your program.
+
+// Conditional Statements (if, else if, else):
+$a = 10;
+
+if ($a > 10) {
+  echo "Greater than 10";
+} elseif ($a == 10) {
+  echo "Equal to 10";
+} else {
+  echo "Less than 10";
+}
+
+echo '<br>';
+
+// Switch Statement:
+$day = "Monday";
+
+switch ($day) {
+  case "Monday":
+    echo "It's Monday!";
+    break;
+  case "Tuesday":
+    echo "It's Tuesday!";
+    break;
+  default:
+    echo "It's another day.";
+}
+
+echo '<br>';
+
+// Loops (for, while, do-while):
+// For loop
+for ($i = 0; $i < 5; $i++) {
+  echo $i;
+}
+
+echo '<br>';
+
+// While loop
+$j = 0;
+while ($j < 5) {
+  echo $j;
+  $j++;
+}
+
+echo '<br>';
+
+// Do-while loop
+$k = 0;
+do {
+  echo $k;
+  $k++;
+} while ($k < 10);

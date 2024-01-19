@@ -16,11 +16,19 @@ To display the submitted data you could simply echo all the variables. The "welc
 </html>
 
 <!-- 
+Choosing Between GET and POST:
+Use GET when:
+
+You are retrieving data from the server.
+The data being sent is not sensitive.
+You want to make the data bookmarkable.
+
+
 Use POST when:
 
 You are sending data to the server to create, update, or delete resources.
 The data being sent is sensitive (e.g., login credentials).
-You are dealing with large amounts of data. 
+You are dealing with large amounts of data.
 
 LINK: https://www.w3schools.com/php/php_forms.asp
 -->

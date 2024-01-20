@@ -6,6 +6,7 @@ The child class will inherit all the public and protected properties and methods
 An inherited class is defined by using the extends keyword. -->
 
 <?php
+
 class Fruit {
   public $name;
   public $color;
@@ -27,4 +28,5 @@ class Strawberry extends Fruit {
 $strawberry = new Strawberry("Strawberry", "red");
 $strawberry->message();
 $strawberry->intro();
+
 ?>

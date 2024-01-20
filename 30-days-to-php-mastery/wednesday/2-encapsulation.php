@@ -21,17 +21,20 @@ class BankAccount {
     if ($this->balance >= $amount) {
       $this->balance -= $amount;
       echo "You withdraw $amount. Your remaining balance is: $this->balance";
+      return true;
     } else {
-      echo "Insufficient funds!. Your current balance is: $this->balance";
+      echo "You can't withdraw $amount. Insufficient funds!. Your current balance is: $this->balance";
+      return false;
     }
   }
 }
 
 $myBank = new BankAccount();
 $myBank->deposit(5_000);
-
-$myBank->withdraw(3_000);
-
-
-
+$myBank->withdraw(6_000);
 ?>
+
+<!-- Explanation:
+
+-The balance property is private, like a secret diary page. It can only be accessed within the BankAccount class methods.
+-The deposit and withdraw methods act as the key, allowing controlled access to check and change the balance. -->

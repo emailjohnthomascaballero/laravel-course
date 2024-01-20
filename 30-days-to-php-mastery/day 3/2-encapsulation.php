@@ -21,10 +21,8 @@ class BankAccount {
     if ($this->balance >= $amount) {
       $this->balance -= $amount;
       echo "You withdraw $amount. Your remaining balance is: $this->balance";
-      return true;
     } else {
       echo "You can't withdraw $amount. Insufficient funds!. Your current balance is: $this->balance";
-      return false;
     }
   }
 }

@@ -6,33 +6,33 @@ An abstract class is a class that contains at least one abstract method. An abst
 An abstract class or method is defined with the abstract keyword: -->
 
 <?php 
-abstract class Animal {
-  abstract public function makeSound();
-  abstract public function eat();
+// abstract class Animal {
+//   abstract public function makeSound();
+//   abstract public function eat();
 
-  public function sleep(){
-    echo "Zzz... <br>";
-  }
-}
+//   public function sleep(){
+//     echo "Zzz... <br>";
+//   }
+// }
 ?>
 
 <!-- Here, makeSound and eat are abstract methods. We're saying that any animal in our game must be able to make a sound and eat, but we're not specifying exactly how each animal should do it. -->
 
 <?php 
-class Dog extends Animal {
-  function makeSound(){
-    echo "Woof! Woof! <br>";
-  }
+// class Dog extends Animal {
+//   function makeSound(){
+//     echo "Woof! Woof! <br>";
+//   }
 
-  function eat(){
-    echo "Nom nom nom... <br>";
-  }
-}
+//   function eat(){
+//     echo "Nom nom nom... <br>";
+//   }
+// }
 
-$dog = new Dog();
-$dog->makeSound();
-$dog->eat();
-$dog->sleep();
+// $dog = new Dog();
+// $dog->makeSound();
+// $dog->eat();
+// $dog->sleep();
 
 ?>
 

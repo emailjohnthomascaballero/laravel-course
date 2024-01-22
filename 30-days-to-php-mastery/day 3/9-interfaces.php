@@ -8,6 +8,17 @@ Classes can implement an interface while inheriting from another class at the sa
 
 <?php 
 
+interface Animal {
+  public function makesound();
+}
 
+class Cat implements Animal {
+  public function makeSound() {
+    echo "meow";
+  }
+}
+
+$cat = new Cat();
+$cat->makeSound();
 
 ?>

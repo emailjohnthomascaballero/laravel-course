@@ -1,3 +1,15 @@
+<!-- 
+  Q:
+how did you guys start learning laravel? 
+
+  A:
+Learn php
+variables
+conditional statement
+loops
+array
+oop -->
+
 <!-- Variables:
 Variables are used to store information in PHP. You can create a variable by using the dollar sign $ followed by the variable name. Variable names in PHP are case-sensitive. -->
 

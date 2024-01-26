@@ -18,13 +18,6 @@ class Cat extends Animal {
   }
 }
 
-
-$dog = new Dog();
-$cat = new Cat();
-
-$dog->makeSound(); // Outputs: Woof! Woof!
-$cat->makeSound(); // Outputs: Meow!
-
 ?>
 
 
@@ -35,12 +28,12 @@ Example: -->
 
 
 <?php 
-function animalSound(Animal $animal){
+function animalSound($animal){
   $animal->makeSound();
 }
 
 $dog = new Dog();
 
-animalSound($dog);
+animalSound($dog); //use object in parameter.
 
 ?>

@@ -34,3 +34,4 @@
 
 [Calculator Wireframe](https://excalidraw.com/#json=WQ2px5HJ4QTEHKBjJhHWf,wwm0fV2_eABo_oW8Y30JVQ)
 
+[Calculator Figma Design](https://www.figma.com/file/exhDPicq2poZ3siW4dToXO/PHP-CLACULATOR?type=design&node-id=0%3A1&mode=design&t=5jA48gI3RgHl19IH-1)

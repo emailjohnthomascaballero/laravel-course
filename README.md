@@ -30,5 +30,7 @@
 
 [Master Laravel 10 for Beginners & Intermediate 2023](https://www.udemy.com/course/laravel-beginner-fundamentals/)
 
+## projects
 
+[Calculator Wireframe](https://excalidraw.com/#json=WQ2px5HJ4QTEHKBjJhHWf,wwm0fV2_eABo_oW8Y30JVQ)
 

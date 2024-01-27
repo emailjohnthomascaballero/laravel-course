@@ -1,0 +1,15 @@
+.title,
+.body,
+.footer {
+  text-align: center;
+}
+
+.title {
+  color: black;
+  padding-bottom: 5px;
+}
+
+.footer {
+  font-size: small;
+  padding-top: 5px;
+}

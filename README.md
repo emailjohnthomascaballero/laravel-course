@@ -22,6 +22,8 @@
 
 [PHP in 100 Seconds](https://youtu.be/a7_WFUlFS94?si=vnraW5UnJ-TGkjlr)
 
+[PHP Calculator Project](https://youtu.be/vjw5UmY7g9M?si=GBwNhoWKK_0eelVj)
+
 [Laravel in 100 Seconds](https://youtu.be/rIfdg_Ot-LI?si=qqm3HnxD3LBqhRWY)
 
 ## udemy courses

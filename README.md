@@ -26,6 +26,8 @@
 
 [Laravel in 100 Seconds](https://youtu.be/rIfdg_Ot-LI?si=qqm3HnxD3LBqhRWY)
 
+[Laravel CRUD in 50 minutes](https://youtu.be/_LA9QsgJ0bw?si=x-FfC3GqUR41rfJr)
+
 ## udemy courses
 
 [Complete Modern PHP Developer Course in 2023](https://www.udemy.com/course/complete-modern-php-developer/)
